@@ -1,0 +1,57 @@
+{
+    "scripts": [
+        "Socket/Socket.js",
+        "Socket/Messages/SocketMessages.js",
+
+        "Dialogs/Dialogs.js",
+        "Dialogs/Entities/DialogDefaultEntity.js",
+        "Dialogs/Entities/DialogHeaderEntity.js",
+        "Dialogs/Entities/DialogTabsEntity.js",
+
+        "Figures/Figures.js",
+        "Figures/Entity/FigureEntity.js",
+
+        "Furnitures/Furnitures.js",
+        "Furnitures/Visualization/FurnitureAssets.js",
+        "Furnitures/Visualization/FurnitureLogic.js",
+        "Furnitures/Visualization/FurnitureVisualization.js",
+        "Furnitures/Entity/FurnitureEntity.js",
+        "Furnitures/Icons/FurnitureIcon.js",
+
+        "Menu/Menu.js",
+        
+        "Rooms/Rooms.js",
+        "Rooms/Entity/RoomEntity.js",
+        "Rooms/Floormap/RoomFloormap.js",
+        "Rooms/Floormap/RoomFloormapFloor.js",
+        "Rooms/Items/RoomItemEntity.js",
+        "Rooms/Items/RoomItemSprite.js",
+        "Rooms/Items/RoomItemCursor.js",
+        "Rooms/Items/RoomItemFigure.js",
+        "Rooms/Items/RoomItemFloormap.js",
+        "Rooms/Items/RoomItemFurniture.js",
+        "Rooms/Interface/RoomInterface.js",
+        "Rooms/Interface/Chat/RoomInterfaceChat.js",
+        "Rooms/Interface/Cursor/RoomInterfaceCursor.js",
+        "Rooms/Interface/Events/RoomEnterEvent.js",
+        "Rooms/Interface/Events/RoomEntityAddEvent.js",
+        "Rooms/Interface/Events/RoomEntityUpdateEvent.js",
+        "Rooms/Navigator/RoomNavigator.js",
+        "Rooms/Navigator/Lists/RoomNavigatorList.js",
+        "Rooms/Navigator/Events/RoomNavigatorEvents.js",
+
+        "Shop/Shop.js",
+        "Shop/Types/ShopPagesType.js",
+        "Shop/Types/ShopFurnituresType.js",
+
+        "User/User.js",
+        
+        "Utils/Utils.js",
+
+        "ClientDevelopment.js"
+    ],
+
+    "fonts": [
+
+    ]
+}
