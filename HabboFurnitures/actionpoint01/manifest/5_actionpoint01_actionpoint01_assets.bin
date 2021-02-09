@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<assets>
+   <asset name="actionpoint01_64_a_0_0" x="28" y="17"/>
+   <asset name="actionpoint01_64_a_2_0" flipH="1" source="actionpoint01_64_a_0_0" x="28" y="17"/>
+   <asset name="actionpoint01_icon_a" x="15" y="8"/>
+   <asset name="actionpoint01_32_a_0_0" x="14" y="8"/>
+   <asset name="actionpoint01_32_a_2_0" flipH="1" source="actionpoint01_32_a_0_0" x="14" y="8"/>
+</assets>
