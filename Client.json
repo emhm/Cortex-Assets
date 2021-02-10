@@ -24,20 +24,26 @@
         
         "Rooms/Rooms.js",
         "Rooms/Entity/RoomEntity.js",
-        "Rooms/Floormap/RoomFloormap.js",
-        "Rooms/Floormap/RoomFloormapFloor.js",
+
+        "Rooms/Map/RoomMap.js",
+        "Rooms/Map/RoomMapData.js",
+        "Rooms/Map/RoomMapFloor.js",
+        "Rooms/Map/RoomMapWall.js",
+
         "Rooms/Items/RoomItemEntity.js",
         "Rooms/Items/RoomItemSprite.js",
         "Rooms/Items/RoomItemCursor.js",
         "Rooms/Items/RoomItemFigure.js",
-        "Rooms/Items/RoomItemFloormap.js",
+        "Rooms/Items/RoomItemMap.js",
         "Rooms/Items/RoomItemFurniture.js",
+
         "Rooms/Interface/RoomInterface.js",
         "Rooms/Interface/Chat/RoomInterfaceChat.js",
         "Rooms/Interface/Cursor/RoomInterfaceCursor.js",
         "Rooms/Interface/Events/RoomEnterEvent.js",
         "Rooms/Interface/Events/RoomEntityAddEvent.js",
         "Rooms/Interface/Events/RoomEntityUpdateEvent.js",
+
         "Rooms/Navigator/RoomNavigator.js",
         "Rooms/Navigator/Lists/RoomNavigatorList.js",
         "Rooms/Navigator/Events/RoomNavigatorEvents.js",
