@@ -43,8 +43,8 @@
         "Rooms/Navigator/Events/RoomNavigatorEvents.js",
 
         "Shop/Shop.js",
-        "Shop/Types/ShopPagesType.js",
-        "Shop/Types/ShopFurnituresType.js",
+        "Shop/Categories/ShopDefaultCategory.js",
+        "Shop/Types/ShopDefaultPage.js",
 
         "User/User.js",
         
