@@ -2,8 +2,8 @@
     "visualization": {
         "HabboRoomCursor_pointer": {
             "offset": {
-                "top": 0,
-                "left": 0
+                "top": -3,
+                "left": 31
             }
         }
     },
