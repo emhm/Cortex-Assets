@@ -1,5 +1,7 @@
 {
     "scripts": [
+        "ClientDevelopment.js",
+        
         "Socket/Socket.js",
         "Socket/Messages/SocketMessages.js",
 
@@ -18,6 +20,7 @@
         "Furnitures/Visualization/FurnitureLogic.js",
         "Furnitures/Visualization/FurnitureVisualization.js",
         "Furnitures/Entity/FurnitureEntity.js",
+        "Furnitures/Renderer/FurnitureRenderer.js",
         "Furnitures/Icons/FurnitureIcon.js",
 
         "Menu/Menu.js",
@@ -52,11 +55,12 @@
         "Shop/Categories/ShopDefaultCategory.js",
         "Shop/Types/ShopDefaultPage.js",
 
+        "Inventory/Inventory.js",
+        "Inventory/Pages/InventoryFurnitures.js",
+
         "User/User.js",
         
-        "Utils/Utils.js",
-
-        "ClientDevelopment.js"
+        "Utils/Utils.js"
     ],
 
     "fonts": [
