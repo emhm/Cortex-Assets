@@ -41,11 +41,17 @@
         "Rooms/Items/RoomItemFurniture.js",
 
         "Rooms/Interface/RoomInterface.js",
+        
         "Rooms/Interface/Chat/RoomInterfaceChat.js",
+
         "Rooms/Interface/Cursor/RoomInterfaceCursor.js",
+
         "Rooms/Interface/Events/RoomEnterEvent.js",
         "Rooms/Interface/Events/RoomEntityAddEvent.js",
         "Rooms/Interface/Events/RoomEntityUpdateEvent.js",
+
+        "Rooms/Interface/Furniture/RoomInterfaceFurniture.js",
+        "Rooms/Interface/Furniture/Events/RoomInterfaceFurniturePlace.js",
 
         "Rooms/Navigator/RoomNavigator.js",
         "Rooms/Navigator/Lists/RoomNavigatorList.js",
