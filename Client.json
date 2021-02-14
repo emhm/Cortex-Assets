@@ -51,9 +51,12 @@
         "Rooms/Interface/Events/RoomEnterEvent.js",
         "Rooms/Interface/Events/RoomEntityAddEvent.js",
         "Rooms/Interface/Events/RoomEntityUpdateEvent.js",
+        "Rooms/Interface/Events/RoomEntityRemoveEvent.js",
 
         "Rooms/Interface/Furniture/RoomInterfaceFurniture.js",
         "Rooms/Interface/Furniture/Events/RoomInterfaceFurniturePlace.js",
+        "Rooms/Interface/Furniture/Events/RoomInterfaceFurniturePickup.js",
+        "Rooms/Interface/Furniture/Events/RoomInterfaceFurnitureMove.js",
 
         "Rooms/Navigator/RoomNavigator.js",
         "Rooms/Navigator/Lists/RoomNavigatorList.js",
