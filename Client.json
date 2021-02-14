@@ -1,6 +1,8 @@
 {
     "scripts": [
         "ClientDevelopment.js",
+
+        "Keys/Keys.js",
         
         "Socket/Socket.js",
         "Socket/Messages/SocketMessages.js",
@@ -70,6 +72,16 @@
     ],
 
     "fonts": [
+        "Ubuntu Regular",
+        "Ubuntu Italic",
 
+        "Ubuntu Bold",
+        "Ubuntu Bold Italic",
+
+        "Ubuntu Light",
+        "Ubuntu Light Italic",
+
+        "Ubuntu Medium",
+        "Ubuntu Medium Italic"
     ]
 }
