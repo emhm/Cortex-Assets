@@ -1,0 +1,165 @@
+{
+    "visualization": {
+        "default": {
+            "font": "Ubuntu Regular",
+            "color": "black",
+            
+            "left": 32,
+            "top": 0,
+            "width": 10,
+
+            "offset": 7
+        },
+
+        "HabboRoomChat_info": {
+            "font": "Ubuntu Italic"
+        }
+    },
+
+    "sprites": {
+        "HabboRoomChat_bats": {
+            "left": "57",
+            "top": "247",
+            "width": "61",
+            "height": "30"
+        },
+        "HabboRoomChat_bot_a": {
+            "left": "0",
+            "top": "0",
+            "width": "51",
+            "height": "24"
+        },
+        "HabboRoomChat_bot_b": {
+            "left": "51",
+            "top": "0",
+            "width": "51",
+            "height": "24"
+        },
+        "HabboRoomChat_console": {
+            "left": "0",
+            "top": "183",
+            "width": "51",
+            "height": "30"
+        },
+        "HabboRoomChat_dragon": {
+            "left": "0",
+            "top": "247",
+            "width": "57",
+            "height": "31"
+        },
+        "HabboRoomChat_goat": {
+            "left": "51",
+            "top": "48",
+            "width": "51",
+            "height": "26"
+        },
+        "HabboRoomChat_heart_b": {
+            "left": "0",
+            "top": "128",
+            "width": "52",
+            "height": "27"
+        },
+        "HabboRoomChat_hearts_a": {
+            "left": "0",
+            "top": "312",
+            "width": "55",
+            "height": "34"
+        },
+        "HabboRoomChat_hobba": {
+            "left": "0",
+            "top": "155",
+            "width": "54",
+            "height": "28"
+        },
+        "HabboRoomChat_info": {
+            "left": "0",
+            "top": "48",
+            "width": "51",
+            "height": "25"
+        },
+        "HabboRoomChat_laser": {
+            "left": "52",
+            "top": "214",
+            "width": "53",
+            "height": "33"
+        },
+        "HabboRoomChat_leather": {
+            "left": "0",
+            "top": "74",
+            "width": "51",
+            "height": "26"
+        },
+        "HabboRoomChat_parrot": {
+            "left": "0",
+            "top": "24",
+            "width": "51",
+            "height": "24"
+        },
+        "HabboRoomChat_pig": {
+            "left": "52",
+            "top": "128",
+            "width": "52",
+            "height": "27"
+        },
+        "HabboRoomChat_pirate": {
+            "left": "0",
+            "top": "101",
+            "width": "52",
+            "height": "26"
+        },
+        "HabboRoomChat_puppy": {
+            "left": "51",
+            "top": "74",
+            "width": "50",
+            "height": "27"
+        },
+        "HabboRoomChat_roses_a": {
+            "left": "0",
+            "top": "214",
+            "width": "52",
+            "height": "33"
+        },
+        "HabboRoomChat_roses_b": {
+            "left": "55",
+            "top": "312",
+            "width": "55",
+            "height": "34"
+        },
+        "HabboRoomChat_skeleton": {
+            "left": "0",
+            "top": "278",
+            "width": "54",
+            "height": "34"
+        },
+        "HabboRoomChat_something": {
+            "left": "51",
+            "top": "24",
+            "width": "51",
+            "height": "24"
+        },
+        "HabboRoomChat_staff": {
+            "left": "54",
+            "top": "155",
+            "width": "54",
+            "height": "28"
+        },
+        "HabboRoomChat_thunder": {
+            "left": "51",
+            "top": "183",
+            "width": "54",
+            "height": "31"
+        },
+        "HabboRoomChat_witch": {
+            "left": "52",
+            "top": "101",
+            "width": "51",
+            "height": "27"
+        },
+        "HabboRoomChat_zombie": {
+            "left": "54",
+            "top": "278",
+            "width": "62",
+            "height": "30"
+        }
+    }
+}
