@@ -6,6 +6,7 @@
         
         "Socket/Socket.js",
         "Socket/Messages/SocketMessages.js",
+        "Socket/Network/SocketNetwork.js",
 
         "Assets/Assets.js",
 
@@ -18,12 +19,10 @@
         "Figures/Entity/FigureEntity.js",
 
         "Furnitures/Furnitures.js",
-        "Furnitures/Visualization/FurnitureAssets.js",
-        "Furnitures/Visualization/FurnitureLogic.js",
-        "Furnitures/Visualization/FurnitureVisualization.js",
+        
         "Furnitures/Entity/FurnitureEntity.js",
+
         "Furnitures/Renderer/FurnitureRenderer.js",
-        "Furnitures/Icons/FurnitureIcon.js",
 
         "Menu/Menu.js",
         
@@ -43,10 +42,12 @@
         "Rooms/Items/RoomItemFurniture.js",
 
         "Rooms/Interface/RoomInterface.js",
-        
+
         "Rooms/Interface/Chat/RoomInterfaceChat.js",
 
         "Rooms/Interface/Cursor/RoomInterfaceCursor.js",
+        
+        "Rooms/Interface/Display/RoomInterfaceDisplay.js",
 
         "Rooms/Interface/Events/RoomEnterEvent.js",
         "Rooms/Interface/Events/RoomEntityAddEvent.js",
@@ -57,6 +58,7 @@
         "Rooms/Interface/Furniture/Events/RoomInterfaceFurniturePlace.js",
         "Rooms/Interface/Furniture/Events/RoomInterfaceFurniturePickup.js",
         "Rooms/Interface/Furniture/Events/RoomInterfaceFurnitureMove.js",
+        "Rooms/Interface/Furniture/Events/RoomInterfaceFurnitureUse.js",
 
         "Rooms/Navigator/RoomNavigator.js",
         "Rooms/Navigator/Lists/RoomNavigatorList.js",

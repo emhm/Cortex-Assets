@@ -1,0 +1,1411 @@
+{
+    "assets": {
+        "assets": {
+            "asset": [
+                {
+                    "name": "rare_dragonlamp_64_a_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_a_4_0",
+                    "x": "28",
+                    "y": "13"
+                },
+                {
+                    "name": "rare_dragonlamp_64_a_4_0",
+                    "x": "28",
+                    "y": "13"
+                },
+                {
+                    "name": "rare_dragonlamp_64_b_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_b_4_0",
+                    "x": "18",
+                    "y": "35"
+                },
+                {
+                    "name": "rare_dragonlamp_64_b_4_0",
+                    "x": "18",
+                    "y": "35"
+                },
+                {
+                    "name": "rare_dragonlamp_64_c_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_c_4_0",
+                    "x": "20",
+                    "y": "60"
+                },
+                {
+                    "name": "rare_dragonlamp_64_c_2_1",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_c_4_1",
+                    "x": "8",
+                    "y": "69"
+                },
+                {
+                    "name": "rare_dragonlamp_64_c_4_0",
+                    "x": "20",
+                    "y": "60"
+                },
+                {
+                    "name": "rare_dragonlamp_64_c_4_1",
+                    "x": "8",
+                    "y": "69"
+                },
+                {
+                    "name": "rare_dragonlamp_64_d_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_d_4_0",
+                    "x": "17",
+                    "y": "34"
+                },
+                {
+                    "name": "rare_dragonlamp_64_d_4_0",
+                    "x": "17",
+                    "y": "34"
+                },
+                {
+                    "name": "rare_dragonlamp_64_e_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_e_4_0",
+                    "x": "19",
+                    "y": "59"
+                },
+                {
+                    "name": "rare_dragonlamp_64_e_2_1",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_e_4_1",
+                    "x": "7",
+                    "y": "68"
+                },
+                {
+                    "name": "rare_dragonlamp_64_e_4_0",
+                    "x": "19",
+                    "y": "59"
+                },
+                {
+                    "name": "rare_dragonlamp_64_e_4_1",
+                    "x": "7",
+                    "y": "68"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_f_4_0",
+                    "x": "28",
+                    "y": "-2"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_2_1",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_f_4_1",
+                    "x": "3",
+                    "y": "96"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_2_2",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_f_4_2",
+                    "x": "5",
+                    "y": "91"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_2_3",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_f_4_3",
+                    "x": "7",
+                    "y": "94"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_2_4",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_f_4_4",
+                    "x": "8",
+                    "y": "95"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_4_0",
+                    "x": "28",
+                    "y": "-2"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_4_1",
+                    "x": "3",
+                    "y": "96"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_4_2",
+                    "x": "5",
+                    "y": "91"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_4_3",
+                    "x": "7",
+                    "y": "94"
+                },
+                {
+                    "name": "rare_dragonlamp_64_f_4_4",
+                    "x": "8",
+                    "y": "95"
+                },
+                {
+                    "name": "rare_dragonlamp_64_g_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_g_4_0",
+                    "x": "28",
+                    "y": "-2"
+                },
+                {
+                    "name": "rare_dragonlamp_64_g_2_1",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_g_4_1",
+                    "x": "25",
+                    "y": "114"
+                },
+                {
+                    "name": "rare_dragonlamp_64_g_4_0",
+                    "x": "28",
+                    "y": "-2"
+                },
+                {
+                    "name": "rare_dragonlamp_64_g_4_1",
+                    "x": "25",
+                    "y": "114"
+                },
+                {
+                    "name": "rare_dragonlamp_64_sd_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_64_sd_4_0",
+                    "x": "29",
+                    "y": "3"
+                },
+                {
+                    "name": "rare_dragonlamp_64_sd_4_0",
+                    "x": "29",
+                    "y": "3"
+                },
+                {
+                    "name": "rare_dragonlamp_icon_a",
+                    "x": "13",
+                    "y": "15"
+                },
+                {
+                    "name": "rare_dragonlamp_icon_b",
+                    "x": "9",
+                    "y": "15"
+                },
+                {
+                    "name": "rare_dragonlamp_32_a_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_a_4_0",
+                    "x": "14",
+                    "y": "6"
+                },
+                {
+                    "name": "rare_dragonlamp_32_a_4_0",
+                    "x": "14",
+                    "y": "6"
+                },
+                {
+                    "name": "rare_dragonlamp_32_b_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_b_4_0",
+                    "x": "9",
+                    "y": "18"
+                },
+                {
+                    "name": "rare_dragonlamp_32_b_4_0",
+                    "x": "9",
+                    "y": "18"
+                },
+                {
+                    "name": "rare_dragonlamp_32_c_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_c_4_0",
+                    "x": "11",
+                    "y": "29"
+                },
+                {
+                    "name": "rare_dragonlamp_32_c_2_1",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_c_4_1",
+                    "x": "4",
+                    "y": "34"
+                },
+                {
+                    "name": "rare_dragonlamp_32_c_4_0",
+                    "x": "11",
+                    "y": "29"
+                },
+                {
+                    "name": "rare_dragonlamp_32_c_4_1",
+                    "x": "4",
+                    "y": "34"
+                },
+                {
+                    "name": "rare_dragonlamp_32_d_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_d_4_0",
+                    "x": "7",
+                    "y": "16"
+                },
+                {
+                    "name": "rare_dragonlamp_32_d_4_0",
+                    "x": "7",
+                    "y": "16"
+                },
+                {
+                    "name": "rare_dragonlamp_32_e_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_e_4_0",
+                    "x": "10",
+                    "y": "28"
+                },
+                {
+                    "name": "rare_dragonlamp_32_e_2_1",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_e_4_1",
+                    "x": "4",
+                    "y": "33"
+                },
+                {
+                    "name": "rare_dragonlamp_32_e_4_0",
+                    "x": "10",
+                    "y": "28"
+                },
+                {
+                    "name": "rare_dragonlamp_32_e_4_1",
+                    "x": "4",
+                    "y": "33"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_f_4_0",
+                    "x": "14",
+                    "y": "-2"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_2_1",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_f_4_1",
+                    "x": "3",
+                    "y": "46"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_2_2",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_f_4_2",
+                    "x": "3",
+                    "y": "44"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_2_3",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_f_4_3",
+                    "x": "4",
+                    "y": "45"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_2_4",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_f_4_4",
+                    "x": "4",
+                    "y": "46"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_4_0",
+                    "x": "14",
+                    "y": "-2"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_4_1",
+                    "x": "3",
+                    "y": "46"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_4_2",
+                    "x": "3",
+                    "y": "44"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_4_3",
+                    "x": "4",
+                    "y": "45"
+                },
+                {
+                    "name": "rare_dragonlamp_32_f_4_4",
+                    "x": "4",
+                    "y": "46"
+                },
+                {
+                    "name": "rare_dragonlamp_32_g_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_g_4_0",
+                    "x": "14",
+                    "y": "-2"
+                },
+                {
+                    "name": "rare_dragonlamp_32_g_2_1",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_g_4_1",
+                    "x": "13",
+                    "y": "57"
+                },
+                {
+                    "name": "rare_dragonlamp_32_g_4_0",
+                    "x": "14",
+                    "y": "-2"
+                },
+                {
+                    "name": "rare_dragonlamp_32_g_4_1",
+                    "x": "13",
+                    "y": "57"
+                },
+                {
+                    "name": "rare_dragonlamp_32_sd_2_0",
+                    "flipH": "1",
+                    "source": "rare_dragonlamp_32_sd_4_0",
+                    "x": "15",
+                    "y": "1"
+                },
+                {
+                    "name": "rare_dragonlamp_32_sd_4_0",
+                    "x": "15",
+                    "y": "1"
+                }
+            ]
+        }
+    },
+    "index": {
+        "object": {
+            "type": "rare_dragonlamp",
+            "visualization": "furniture_animated",
+            "logic": "furniture_multistate"
+        }
+    },
+    "logic": {
+        "objectData": {
+            "type": "rare_dragonlamp",
+            "model": {
+                "dimensions": {
+                    "x": "1",
+                    "y": "1",
+                    "z": "0.0"
+                },
+                "directions": {
+                    "direction": [
+                        {
+                            "id": "90"
+                        },
+                        {
+                            "id": "180"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "manifest": {
+        "manifest": {
+            "library": {
+                "name": "rare_dragonlamp",
+                "version": "0.1",
+                "assets": {
+                    "asset": [
+                        {
+                            "name": "index",
+                            "mimeType": "text/xml"
+                        },
+                        {
+                            "name": "rare_dragonlamp_visualization",
+                            "mimeType": "text/xml"
+                        },
+                        {
+                            "name": "rare_dragonlamp_assets",
+                            "mimeType": "text/xml"
+                        },
+                        {
+                            "name": "rare_dragonlamp_logic",
+                            "mimeType": "text/xml"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_a_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_b_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_c_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_c_4_1",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_d_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_e_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_e_4_1",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_f_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_f_4_1",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_f_4_2",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_f_4_3",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_f_4_4",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_g_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_g_4_1",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_64_sd_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_icon_a",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_icon_b",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_a_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_b_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_c_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_c_4_1",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_d_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_e_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_e_4_1",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_f_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_f_4_1",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_f_4_2",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_f_4_3",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_f_4_4",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_g_4_0",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_g_4_1",
+                            "mimeType": "image/png"
+                        },
+                        {
+                            "name": "rare_dragonlamp_32_sd_4_0",
+                            "mimeType": "image/png"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "visualization": {
+        "visualizationData": {
+            "type": "rare_dragonlamp",
+            "graphics": {
+                "visualization": [
+                    {
+                        "size": "32",
+                        "layerCount": "7",
+                        "angle": "45",
+                        "layers": {
+                            "layer": [
+                                {
+                                    "id": "3",
+                                    "ink": "ADD"
+                                },
+                                {
+                                    "id": "4",
+                                    "ink": "ADD"
+                                },
+                                {
+                                    "id": "5",
+                                    "alpha": "204"
+                                },
+                                {
+                                    "id": "6",
+                                    "ink": "ADD",
+                                    "ignoreMouse": "1"
+                                }
+                            ]
+                        },
+                        "directions": {
+                            "direction": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        },
+                        "colors": {
+                            "color": [
+                                {
+                                    "id": "0",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "FA2D00"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "FA2D00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "1",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "3470FF"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "3470FF"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "2",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "02BB70"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "02BB70"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "4",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "3E3D40"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "3E3D40"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "5",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "589A03"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "589A03"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "6",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "FFBC00"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "FFBC00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "7",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "83AEFF"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "83AEFF"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "8",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "FF5F01"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "FF5F01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "9",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "B357FF"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "B357FF"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "10",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "9c0247"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "9c0247"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "animations": {
+                            "animation": [
+                                {
+                                    "id": "0",
+                                    "animationLayer": [
+                                        {
+                                            "id": "0",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "1",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "2",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "3",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "4",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "5",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "6",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "1",
+                                    "animationLayer": [
+                                        {
+                                            "id": "2",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "1"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "4",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "1"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "5",
+                                            "loopCount": "0",
+                                            "frameRepeat": "2",
+                                            "frameSequence": {
+                                                "frame": [
+                                                    {
+                                                        "id": "1"
+                                                    },
+                                                    {
+                                                        "id": "2"
+                                                    },
+                                                    {
+                                                        "id": "3"
+                                                    },
+                                                    {
+                                                        "id": "4"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "6",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "1"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "size": "64",
+                        "layerCount": "7",
+                        "angle": "45",
+                        "layers": {
+                            "layer": [
+                                {
+                                    "id": "3",
+                                    "ink": "ADD"
+                                },
+                                {
+                                    "id": "4",
+                                    "ink": "ADD"
+                                },
+                                {
+                                    "id": "5",
+                                    "alpha": "204"
+                                },
+                                {
+                                    "id": "6",
+                                    "ink": "ADD",
+                                    "ignoreMouse": "1"
+                                }
+                            ]
+                        },
+                        "directions": {
+                            "direction": [
+                                {
+                                    "id": "2"
+                                },
+                                {
+                                    "id": "4"
+                                }
+                            ]
+                        },
+                        "colors": {
+                            "color": [
+                                {
+                                    "id": "0",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "FA2D00"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "FA2D00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "1",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "3470FF"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "3470FF"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "2",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "02BB70"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "02BB70"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "4",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "3E3D40"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "3E3D40"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "5",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "589A03"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "589A03"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "6",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "FFBC00"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "FFBC00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "7",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "83AEFF"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "83AEFF"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "8",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "FF5F01"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "FF5F01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "9",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "B357FF"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "B357FF"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "10",
+                                    "colorLayer": [
+                                        {
+                                            "id": "1",
+                                            "color": "9c0247"
+                                        },
+                                        {
+                                            "id": "2",
+                                            "color": "9c0247"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "animations": {
+                            "animation": [
+                                {
+                                    "id": "0",
+                                    "animationLayer": [
+                                        {
+                                            "id": "0",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "1",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "2",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "3",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "4",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "5",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "6",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "0"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "1",
+                                    "animationLayer": [
+                                        {
+                                            "id": "2",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "1"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "4",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "1"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "id": "5",
+                                            "loopCount": "0",
+                                            "frameRepeat": "2",
+                                            "frameSequence": {
+                                                "frame": [
+                                                    {
+                                                        "id": "1"
+                                                    },
+                                                    {
+                                                        "id": "2"
+                                                    },
+                                                    {
+                                                        "id": "3"
+                                                    },
+                                                    {
+                                                        "id": "4"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "6",
+                                            "frameSequence": {
+                                                "frame": {
+                                                    "id": "1"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "size": "1",
+                        "layerCount": "2",
+                        "angle": "360",
+                        "directions": {
+                            "direction": {
+                                "id": "0"
+                            }
+                        },
+                        "colors": {
+                            "color": [
+                                {
+                                    "id": "0",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "FA2D00"
+                                    }
+                                },
+                                {
+                                    "id": "1",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "3470FF"
+                                    }
+                                },
+                                {
+                                    "id": "2",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "02BB70"
+                                    }
+                                },
+                                {
+                                    "id": "4",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "3E3D40"
+                                    }
+                                },
+                                {
+                                    "id": "5",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "589A03"
+                                    }
+                                },
+                                {
+                                    "id": "6",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "FFBC00"
+                                    }
+                                },
+                                {
+                                    "id": "7",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "83AEFF"
+                                    }
+                                },
+                                {
+                                    "id": "8",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "FF5F01"
+                                    }
+                                },
+                                {
+                                    "id": "9",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "B357FF"
+                                    }
+                                },
+                                {
+                                    "id": "10",
+                                    "colorLayer": {
+                                        "id": "1",
+                                        "color": "9c0247"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "sprites": {
+        "rare_dragonlamp_32_a_4_0": {
+            "left": "22",
+            "top": "53",
+            "width": "30",
+            "height": "15"
+        },
+        "rare_dragonlamp_32_b_4_0": {
+            "left": "0",
+            "top": "53",
+            "width": "22",
+            "height": "19"
+        },
+        "rare_dragonlamp_32_c_4_0": {
+            "left": "30",
+            "top": "21",
+            "width": "18",
+            "height": "14"
+        },
+        "rare_dragonlamp_32_c_4_1": {
+            "left": "17",
+            "top": "21",
+            "width": "13",
+            "height": "18"
+        },
+        "rare_dragonlamp_32_d_4_0": {
+            "left": "0",
+            "top": "39",
+            "width": "18",
+            "height": "14"
+        },
+        "rare_dragonlamp_32_e_4_0": {
+            "left": "0",
+            "top": "21",
+            "width": "17",
+            "height": "13"
+        },
+        "rare_dragonlamp_32_e_4_1": {
+            "left": "11",
+            "top": "0",
+            "width": "11",
+            "height": "17"
+        },
+        "rare_dragonlamp_32_f_4_1": {
+            "left": "22",
+            "top": "0",
+            "width": "9",
+            "height": "21"
+        },
+        "rare_dragonlamp_32_f_4_2": {
+            "left": "1",
+            "top": "0",
+            "width": "10",
+            "height": "17"
+        },
+        "rare_dragonlamp_32_f_4_3": {
+            "left": "31",
+            "top": "0",
+            "width": "11",
+            "height": "18"
+        },
+        "rare_dragonlamp_32_f_4_4": {
+            "left": "42",
+            "top": "0",
+            "width": "11",
+            "height": "19"
+        },
+        "rare_dragonlamp_32_g_4_1": {
+            "left": "35",
+            "top": "223",
+            "width": "29",
+            "height": "36"
+        },
+        "rare_dragonlamp_32_sd_4_0": {
+            "left": "18",
+            "top": "39",
+            "width": "31",
+            "height": "10"
+        },
+        "rare_dragonlamp_64_a_4_0": {
+            "left": "0",
+            "top": "348",
+            "width": "60",
+            "height": "29"
+        },
+        "rare_dragonlamp_64_b_4_0": {
+            "left": "0",
+            "top": "312",
+            "width": "42",
+            "height": "36"
+        },
+        "rare_dragonlamp_64_c_4_0": {
+            "left": "0",
+            "top": "223",
+            "width": "35",
+            "height": "27"
+        },
+        "rare_dragonlamp_64_c_4_1": {
+            "left": "0",
+            "top": "187",
+            "width": "24",
+            "height": "36"
+        },
+        "rare_dragonlamp_64_d_4_0": {
+            "left": "0",
+            "top": "279",
+            "width": "40",
+            "height": "33"
+        },
+        "rare_dragonlamp_64_e_4_0": {
+            "left": "24",
+            "top": "187",
+            "width": "34",
+            "height": "26"
+        },
+        "rare_dragonlamp_64_e_4_1": {
+            "left": "38",
+            "top": "72",
+            "width": "22",
+            "height": "35"
+        },
+        "rare_dragonlamp_64_f_4_0": {
+            "left": "0",
+            "top": "0",
+            "width": "1",
+            "height": "1"
+        },
+        "rare_dragonlamp_64_f_4_1": {
+            "left": "0",
+            "top": "107",
+            "width": "19",
+            "height": "41"
+        },
+        "rare_dragonlamp_64_f_4_2": {
+            "left": "18",
+            "top": "72",
+            "width": "20",
+            "height": "35"
+        },
+        "rare_dragonlamp_64_f_4_3": {
+            "left": "0",
+            "top": "148",
+            "width": "22",
+            "height": "37"
+        },
+        "rare_dragonlamp_64_f_4_4": {
+            "left": "22",
+            "top": "148",
+            "width": "22",
+            "height": "39"
+        },
+        "rare_dragonlamp_64_g_4_1": {
+            "left": "0",
+            "top": "377",
+            "width": "58",
+            "height": "72"
+        },
+        "rare_dragonlamp_64_sd_4_0": {
+            "left": "0",
+            "top": "259",
+            "width": "62",
+            "height": "20"
+        },
+        "rare_dragonlamp_icon_a": {
+            "left": "19",
+            "top": "107",
+            "width": "27",
+            "height": "30"
+        },
+        "rare_dragonlamp_icon_b": {
+            "left": "0",
+            "top": "72",
+            "width": "18",
+            "height": "25"
+        },
+        "rare_dragonlamp_64_g_4_0": {
+            "link": "rare_dragonlamp_64_f_4_0"
+        },
+        "rare_dragonlamp_32_g_4_0": {
+            "link": "rare_dragonlamp_64_f_4_0"
+        },
+        "rare_dragonlamp_32_f_4_0": {
+            "link": "rare_dragonlamp_64_f_4_0"
+        }
+    }
+}
