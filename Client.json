@@ -14,6 +14,7 @@
         "Dialogs/Entities/DialogDefaultEntity.js",
         "Dialogs/Entities/DialogHeaderEntity.js",
         "Dialogs/Entities/DialogTabsEntity.js",
+        "Dialogs/Entities/DialogSelectionEntity.js",
 
         "Figures/Figures.js",
         "Figures/Entity/FigureEntity.js",
@@ -24,10 +25,14 @@
 
         "Furnitures/Renderer/FurnitureRenderer.js",
 
+        "Canvas/Canvas.js",
+
         "Menu/Menu.js",
         
         "Rooms/Rooms.js",
         "Rooms/Entity/RoomEntity.js",
+        
+        "Rooms/Categories/RoomCategories.js",
 
         "Rooms/Map/RoomMap.js",
         "Rooms/Map/RoomMapData.js",
@@ -63,6 +68,11 @@
         "Rooms/Navigator/RoomNavigator.js",
         "Rooms/Navigator/Lists/RoomNavigatorList.js",
         "Rooms/Navigator/Events/RoomNavigatorEvents.js",
+        
+        "Rooms/Creation/RoomCreation.js",
+        "Rooms/Creation/Map/RoomCreationMap.js",
+        
+        "Rooms/Editor/RoomEditor.js",
 
         "Shop/Shop.js",
         "Shop/Categories/ShopDefaultCategory.js",
