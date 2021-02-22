@@ -76,6 +76,7 @@
 
         "Shop/Shop.js",
         "Shop/Categories/ShopDefaultCategory.js",
+        "Shop/Categories/ShopSearchCategory.js",
         "Shop/Types/ShopDefaultPage.js",
 
         "Inventory/Inventory.js",
