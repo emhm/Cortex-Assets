@@ -1,4 +1,9 @@
 {
+    "socket": {
+        "address": "127.0.0.1",
+        "port": 81
+    },
+
     "scripts": [
         "ClientDevelopment.js",
 
