@@ -54,8 +54,8 @@
 
         "Rooms/Interface/Cursor/RoomInterfaceCursor.js",
         
-        "Rooms/Interface/Users/RoomInterfaceUsers.js",
         "Rooms/Interface/Display/RoomInterfaceDisplay.js",
+        "Rooms/Interface/Display/Users/RoomInterfaceDisplayUsers.js",
         "Rooms/Interface/Information/RoomInterfaceInformation.js",
 
         "Rooms/Interface/Events/RoomEnterEvent.js",
