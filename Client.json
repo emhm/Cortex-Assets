@@ -14,6 +14,8 @@
         "Socket/Network/SocketNetwork.js",
 
         "Assets/Assets.js",
+        
+        "Game/Game.js",
 
         "Dialogs/Dialogs.js",
         "Dialogs/Entities/DialogDefaultEntity.js",
