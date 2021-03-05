@@ -32,8 +32,6 @@
         "Furnitures/Renderer/FurnitureRenderer.js",
 
         "Canvas/Canvas.js",
-
-        "Menu/Menu.js",
         
         "Rooms/Rooms.js",
         "Rooms/Entity/RoomEntity.js",
@@ -88,6 +86,8 @@
         "Rooms/Editor/RoomEditor.js",
 
         "Rooms/Settings/RoomSettings.js",
+
+        "Menu/Menu.js",
 
         "Shop/Shop.js",
         "Shop/Categories/ShopDefaultCategory.js",
