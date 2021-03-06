@@ -1,7 +1,7 @@
 {
     "visualization": {
         "default": {
-            "font": "Ubuntu Regular",
+            "font": "Ubuntu",
             "color": "black",
             
             "left": 32,
@@ -12,7 +12,7 @@
         },
 
         "HabboRoomChat_info": {
-            "font": "Ubuntu Italic"
+            "font": "Ubuntu"
         }
     },
 
