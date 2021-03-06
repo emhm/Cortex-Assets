@@ -53,6 +53,8 @@
         "Rooms/Interface/RoomInterface.js",
 
         "Rooms/Interface/Chat/RoomInterfaceChat.js",
+        "Rooms/Interface/Chat/Input/RoomInterfaceChatInput.js",
+        "Rooms/Interface/Chat/Events/OnRoomUserChat.js",
 
         "Rooms/Interface/Cursor/RoomInterfaceCursor.js",
         
