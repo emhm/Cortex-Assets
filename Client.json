@@ -73,6 +73,7 @@
         "Rooms/Interface/Furniture/Events/RoomInterfaceFurniturePlace.js",
         "Rooms/Interface/Furniture/Events/RoomInterfaceFurniturePickup.js",
         "Rooms/Interface/Furniture/Events/RoomInterfaceFurnitureMove.js",
+        "Rooms/Interface/Furniture/Events/RoomInterfaceFurnitureRotate.js",
         "Rooms/Interface/Furniture/Events/RoomInterfaceFurnitureUse.js",
         
         "Rooms/Interface/Furniture/Logics/RoomFurnitureMultistate.js",
