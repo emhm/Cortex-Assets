@@ -61,6 +61,7 @@
         "Rooms/Interface/Display/RoomInterfaceDisplay.js",
         "Rooms/Interface/Display/Users/RoomInterfaceDisplayUsers.js",
         "Rooms/Interface/Menu/RoomInterfaceMenu.js",
+        "Rooms/Interface/Information/RoomInterfaceInformation.js",
 
         "Rooms/Interface/Events/RoomEnterEvent.js",
         "Rooms/Interface/Events/RoomEntityAddEvent.js",
